@@ -1,1 +1,2 @@
-all the errors are fixed
+all the errors are fixed.
+code is ready for the deployment.
