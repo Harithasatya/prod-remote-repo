@@ -1,1 +1,2 @@
 this is deployment phase.
+Application is ready for the deployment.
